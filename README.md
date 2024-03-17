@@ -1,8 +1,8 @@
 COMP 3005 Assignment 3
 Aboderin Forewa 101241161
 
-FILES:
-students.java
+FILES and FOLDER:
+Assignmennt3
 student.sql
 studentdml.sql
 
