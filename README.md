@@ -1,15 +1,15 @@
-COMP 3005 Assignment 3
+#COMP 3005 Assignment 3
 Aboderin Forewa 101241161
 
-FILES and FOLDER:
+#FILES and FOLDER:
 Assignmennt3
 student.sql
 studentdml.sql
 
-INSTALL INSTRUCTIONS
+#INSTALL INSTRUCTIONS
 Install intellij 
  
-RUN INSTRUCTIONS 
+#RUN INSTRUCTIONS 
 Open your pgadmin4
 create a Database called "Assignment3"
 Locate the student.sql file
