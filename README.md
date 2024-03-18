@@ -7,7 +7,7 @@ student.sql
 studentdml.sql
 
 INSTALL INSTRUCTIONS
-Install intellij intellij
+Install intellij 
  
 RUN INSTRUCTIONS 
 Open your pgadmin4
